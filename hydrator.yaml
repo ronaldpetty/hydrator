@@ -1,0 +1,5 @@
+rusername: "snakeeyes"
+rpassword: "codeRed"
+lpassword: "topSecret"
+lhost: "redis"
+rhost: "mysql"
